@@ -4,4 +4,4 @@ Steps
 1. Create the project
 2. Download necesary tools : 
 * Entityframework core, Tools, sql server
-3. Build the models
+3. Build the models/ categories
