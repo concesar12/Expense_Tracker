@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nJFwxeB1LtINtUK+QgbpzNYp7Zt8KOyG03vxfCmB+r8bgS4WS8HYFDsMqSbhgmCmHAIpoPAY/yq8h5ty4gB1uA==",
+  "dgSpecHash": "PkHn6PGCq6arGmmV78J+jXekZyTO90oWdQAigXhdpWT0xeCnFlpvlq+2u0zMFCY9NgNascTgkVjCoYH6VIBpHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\conce\\Documents\\Expense_tracker\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
   "expectedPackageFiles": [
@@ -71,7 +71,7 @@
     "C:\\Users\\conce\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\conce\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\conce\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\conce\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\conce\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\conce\\.nuget\\packages\\nuget.common\\6.3.1\\nuget.common.6.3.1.nupkg.sha512",
     "C:\\Users\\conce\\.nuget\\packages\\nuget.configuration\\6.3.1\\nuget.configuration.6.3.1.nupkg.sha512",
     "C:\\Users\\conce\\.nuget\\packages\\nuget.dependencyresolver.core\\6.3.1\\nuget.dependencyresolver.core.6.3.1.nupkg.sha512",
@@ -101,6 +101,8 @@
     "C:\\Users\\conce\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
     "C:\\Users\\conce\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
     "C:\\Users\\conce\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512",
+    "C:\\Users\\conce\\.nuget\\packages\\syncfusion.ej2.aspnet.core\\20.4.0.53\\syncfusion.ej2.aspnet.core.20.4.0.53.nupkg.sha512",
+    "C:\\Users\\conce\\.nuget\\packages\\syncfusion.licensing\\20.4.0.53\\syncfusion.licensing.20.4.0.53.nupkg.sha512",
     "C:\\Users\\conce\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\conce\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\conce\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
