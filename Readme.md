@@ -19,4 +19,9 @@ Steps
 16. Last is to install the scripts as indicated in the web page, do not include the calendar
 17. go to textbox, and copy the script to add a new text box and change the ID and Title
 18. the background colors were changed in the project root
-19. Need to put the keys 
+19. Need to put the keys
+20. Add and create were merged into one making the new view category AddOrEdit
+21. There was hidden value to be passed category ID added to AddOrEdit
+22. Then button is going to be added too.
+23. then add the buttons and align the html and css 
+24. things like button and font awesome were added to the index and site cshtml 
