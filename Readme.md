@@ -31,3 +31,8 @@ Steps
 22. Then change the previuos table in index for the grid in syncfusion
 23. It was merged into one icon and category
 24. create if for type in case is expense or income
+25. Iclude ordering columns and paging to index.cshtml
+26. Then is time to work for the last operation, delete in the category controller
+27. Delete and details were delete since they don't have a real use in the app
+28. Fav icon added to the page
+29. Name on tab was added too
