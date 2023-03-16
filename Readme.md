@@ -36,3 +36,6 @@ Steps
 27. Delete and details were delete since they don't have a real use in the app
 28. Fav icon added to the page
 29. Name on tab was added too
+30. Add the categories view and the breadcrumbs  
+31. Added new navigation buttons and style in titles
+ 
