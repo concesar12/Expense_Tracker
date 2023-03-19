@@ -47,4 +47,4 @@ Steps
 38. Add the validation (Server side)
 39. Create the dashboard controller 
 40. reserve space for the side bar
-
+41. add info to the index of the dashboard to show total and expense and incomes
