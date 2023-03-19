@@ -39,9 +39,12 @@ Steps
 30. Add the categories view and the breadcrumbs  
 31. Added new navigation buttons and style in titles
 32. In order to have controllers working a good idea is to remove three dependencies(entityframework, sqlentity and tools) then install the latest version of entity framework, try to create the controller and finally install version 6 again.
- 33. Start with the transaction Controller
+33. Start with the transaction Controller
 34. Do not forget to pass a freash instance of the view, in this case (new Transaction) into the controller 
 35. Creating the view cshtml to make it look good
 36. Passing the categories list to a variable
 37. Implement the same add or edit and delete for the transactions
-38. Create the validation
+38. Add the validation (Server side)
+39. Create the dashboard controller 
+40. reserve space for the side bar
+

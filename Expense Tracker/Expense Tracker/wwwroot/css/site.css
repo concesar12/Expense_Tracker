@@ -28,6 +28,11 @@ body {
     font-size: x-large;
 }
 
+/*For the side bar*/
+.main-content{
+    margin-left: 290px;
+}
+
 /*Breadcrumb*/
 .e-breadcrumb a, .e-breadcrumb a:hover {
     text-decoration: none !important;
@@ -138,6 +143,13 @@ body {
     background-color: #fff;
     color: #212b36;
     border: 1px solid #fff;
+}
+
+/*SideBar*/
+#sidebar{
+    background-color:#12161d;
+    border-right: 1px dashed rgba(75,82,85,0.24);
+    padding: 10px 20px;
 }
 
 /*Widget*/
