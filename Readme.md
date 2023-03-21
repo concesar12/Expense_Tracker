@@ -48,3 +48,5 @@ Steps
 39. Create the dashboard controller 
 40. reserve space for the side bar
 41. add info to the index of the dashboard to show total and expense and incomes
+42. Time to build the graphs, using syncfusion
+43. added the expenses doughnut chart
