@@ -50,3 +50,6 @@ Steps
 41. add info to the index of the dashboard to show total and expense and incomes
 42. Time to build the graphs, using syncfusion
 43. added the expenses doughnut chart
+44. Creation of the spline chart using sync fusion
+45. Income, expense and income expense were added to be displayed in the chart
+46. Using Linq for various queries
