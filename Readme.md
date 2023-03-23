@@ -36,16 +36,16 @@ Steps
 27. Delete and details were delete since they don't have a real use in the app
 28. Fav icon added to the page
 29. Name on tab was added too
-30. Add the categories view and the breadcrumbs  
+30. Add the categories view and the breadcrumbs
 31. Added new navigation buttons and style in titles
 32. In order to have controllers working a good idea is to remove three dependencies(entityframework, sqlentity and tools) then install the latest version of entity framework, try to create the controller and finally install version 6 again.
 33. Start with the transaction Controller
-34. Do not forget to pass a freash instance of the view, in this case (new Transaction) into the controller 
+34. Do not forget to pass a freash instance of the view, in this case (new Transaction) into the controller
 35. Creating the view cshtml to make it look good
 36. Passing the categories list to a variable
 37. Implement the same add or edit and delete for the transactions
 38. Add the validation (Server side)
-39. Create the dashboard controller 
+39. Create the dashboard controller
 40. reserve space for the side bar
 41. add info to the index of the dashboard to show total and expense and incomes
 42. Time to build the graphs, using syncfusion
@@ -53,3 +53,6 @@ Steps
 44. Creation of the spline chart using sync fusion
 45. Income, expense and income expense were added to be displayed in the chart
 46. Using Linq for various queries
+47. Added new lines of the spline chart
+48. Added style of the lines and colour
+49. Added Recent transactions modeule on index
