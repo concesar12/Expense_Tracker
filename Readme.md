@@ -56,3 +56,8 @@ Steps
 47. Added new lines of the spline chart
 48. Added style of the lines and colour
 49. Added Recent transactions modeule on index
+50. Create the accessing buttons to fill up the dashborad
+51. Finishing up with the side bar
+52. adding icons and profile pictures
+53. Tidy up details with the side bar
+54. finish the app
